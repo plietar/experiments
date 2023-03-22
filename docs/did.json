@@ -1,0 +1,18 @@
+{
+  "id": "did:web:plietar.github.io:experiments",
+  "assertionMethod": [
+    {
+      "id": "did:web:plietar.github.io:experiments#06db104566285f2025758d2fea8dec7611c1f28eed22010b103551a66d71d504",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:plietar.github.io:experiments",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "X1oFmN6mss0HAESeQmF5cN6liwNScB3gQwge6yHZGpPP925_rNHdFw36J-P0a6jn",
+        "y": "iJWjPYcSZbip8xcRhTVRWvXy8GT39Sae4r2TWffSFyexhKWXTEwS0Kfn2MgxoCRY",
+        "kid": "#06db104566285f2025758d2fea8dec7611c1f28eed22010b103551a66d71d504",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
